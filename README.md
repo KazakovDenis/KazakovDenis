@@ -1,4 +1,5 @@
-## Salute! 👋 I'm Denis, backend developer
+![](https://raw.githubusercontent.com/KazakovDenis/KazakovDenis/main/header.png)
+
 I write in Python 🐍 and love doing optimization: diving deep into a problem and looking for solutions to it.  
   
 I am very interested in high-load distributed systems. I believe that a long-living project requires good test coverage and possibly ugly but strict code style. And MVP is MVP.  
@@ -18,7 +19,7 @@ I am self-taught and have no computer science education, but before entering IT,
   </a>
 </p>
 
-### Stack:
+### Tech:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
